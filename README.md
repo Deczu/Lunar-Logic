@@ -26,3 +26,9 @@ After third round: DB
 Output: DB 
 
 
+
+Solution 1:  https://editor.p5js.org/Deczu/full/H1orBIHT7
+
+
+Solution 2: https://editor.p5js.org/Deczu/full/BkZy1F_aQ
+
