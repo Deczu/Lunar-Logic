@@ -1,5 +1,5 @@
 # Lunar-Logic
-Created two of possible algorithms for problem setted for Interns described bellow
+Created two sollutions for problem setted for Interns described bellow
 
 
 
