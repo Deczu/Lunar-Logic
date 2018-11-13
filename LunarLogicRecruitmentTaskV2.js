@@ -48,7 +48,7 @@ function solve() {
             }
         }
 
-        if (this.j === input.length && this.count === this.j) {
+        if (this.j === input.length && this.count > 2) {
             tmp = [];
             break;
         } else {
