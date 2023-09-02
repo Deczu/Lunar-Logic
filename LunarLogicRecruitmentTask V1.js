@@ -1,5 +1,6 @@
 ﻿var tmp = [];
 var occurRate = [];
+console.log("PepeSad")
 
 function setup() {
     alter = createInput('AABBCCCCBDDDADB', 'text');
